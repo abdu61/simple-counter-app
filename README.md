@@ -5,10 +5,10 @@ Requirement:
 
 ScreenShots:
 <html>
-<img src="img\Screen Shot 2023-11-08 at 21.46.06.png" width:"250px">
+<img src="img\Screen Shot 2023-11-08 at 21.46.06.png" width:"250">
 <br>
 <br>
-<img src="img\Screen Shot 2023-11-08 at 21.46.12.png" width:"250px">
+<img src="img\Screen Shot 2023-11-08 at 21.46.12.png" width:"250">
 </html>
 
 
