@@ -1,9 +1,10 @@
-Simple Counter App using Ionic
+<b>Simple Counter App using Ionic</b>
+<br><br>
 
-Requirement:
+<b>Requirement:</b>
  - Need Node.js, Ionic CLI and other required components for ionic
-
-ScreenShots:
+<br><br>
+<b>ScreenShots:</b>
 
 | col 1      | col 2      |
 |------------|-------------|
